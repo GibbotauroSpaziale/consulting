@@ -19,7 +19,7 @@ CNAME         consulting.gibbotauro.com
 
 ## Deploy
 
-1. Push su GitHub (repo `gibbotauro-consulting`, branch `main`)
+1. Push su GitHub (repo `consulting`, branch `main`)
 2. Pages → custom domain `consulting.gibbotauro.com` (CNAME già nel root)
 3. DNS Aruba: `CNAME consulting` → `GibbotauroSpaziale.github.io.`
 
